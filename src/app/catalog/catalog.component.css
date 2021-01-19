@@ -1,0 +1,46 @@
+.form-header {
+   font-size:x-large;
+   color: Black;
+   font-family: 'Bangers', cursive;
+   padding:15px;
+   display:flex !important;
+   justify-content:center!important;
+}
+
+.tp-container {
+  display:flex !important;
+  justify-content:center!important;
+}
+
+mat-sort-header-sorted {
+  color: black;
+}
+
+th {
+   font-size:large;
+   font-family: 'Bangers', cursive;
+   color: black;
+   width: 200px;
+   text-align: center;
+}
+
+td {
+    font-size:medium;
+}
+
+mat-paginator {
+  display:flex !important;
+  justify-content:center!important;
+}
+
+.search-logo {
+    width: 25px;
+    height: 25px;
+    margin-right: 5px;
+    float: left;
+}
+
+.inline{
+    display:flex !important;
+    justify-content:center!important;
+}

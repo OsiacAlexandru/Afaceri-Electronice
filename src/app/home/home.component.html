@@ -1,0 +1,27 @@
+<div class="home-content">
+    <mat-card class="example-card" [ngStyle]="{'background-color':'black'}">
+    <img mat-card-image routerLink="/catalog" [state]="{name:'Imbracaminte'}" class="mat-img" src="assets/T.PNG">
+    <mat-card-content>
+    <p class="title-p">
+       Imbracaminte
+    </p>
+    </mat-card-content>
+    </mat-card>
+    <mat-card class="example-card" [ngStyle]="{'background-color':'black'}">
+    <img mat-card-image routerLink="/catalog" [state]="{name:'Incaltaminte'}" class="mat-img" src="assets/shoes.PNG">
+    <mat-card-content>
+    <p class="title-p">
+       Incaltaminte
+    </p>
+    </mat-card-content>
+    </mat-card>
+    <mat-card class="example-card" [ngStyle]="{'background-color':'black'}">
+    <img mat-card-image routerLink="/catalog"  [state]="{name:'Accesorii'}" class="mat-img" src="assets/acc.PNG">
+    <mat-card-content >
+    <p class="title-p">
+       Accesorii
+    </p>
+    </mat-card-content>
+    </mat-card>
+</div>
+<router-outlet></router-outlet>

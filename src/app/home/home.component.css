@@ -1,0 +1,23 @@
+.home-content {
+  display: flex;
+  overflow: auto;
+   align-items: center;
+}
+
+.example-card {
+    margin: 20px;
+    margin-left: 50px;
+    margin-left: 50px;
+}
+
+.title-p {
+   text-align: center;
+   font-size:large;
+   color: white;
+   font-family: 'Bangers', cursive;
+}
+
+.mat-img {
+    width: 550px;
+    height: 450px;
+}
