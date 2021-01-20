@@ -12,7 +12,7 @@ Node.js used for developing the BE side of the project - same server.js from the
 Angular used for developing the FE side of the project
 
 ## Performance Tests 
-Done using K6 Load testing
+Done using K6 Load testing & Lighthouse (the results for each page can be found in the repo as .pdf)
 
 ## Test Hompage
 https://app.k6.io/runs/public/9109470c83f445bfb3c2c7833450b10f
