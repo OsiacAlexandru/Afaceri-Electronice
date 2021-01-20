@@ -63,11 +63,7 @@ export class FormularComponent implements OnInit {
           console.log(data)
         });
         this.notifyUserSucces();
-<<<<<<< HEAD
-       // window.location.reload();
-=======
         window.location.reload();
->>>>>>> 5b09a50d243a2f659ae65c0db022d213eeb69c10
       } else {
         this.notifyUserError();
       }
