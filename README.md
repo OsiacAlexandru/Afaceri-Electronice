@@ -26,9 +26,13 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
 
-## Used AWS C9 for deployment
+## Deployment
+AWS Cloud9 as work environment
+Node for the BE side of the project 
+Angular for the FE side
 
-## Performance Tests - K6
+## Performance Tests 
+Done using K6 Load testing
 
 ## Test Hompage
 https://app.k6.io/runs/public/9109470c83f445bfb3c2c7833450b10f
